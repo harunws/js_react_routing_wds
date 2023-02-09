@@ -1,0 +1,77 @@
+🔴🟢🟡 🔎 ❓ ❗ 👀 🌏🤖 🧶 🧩 ⏱ 📆 🚩 🥎⛔🚀💿🧬🔋 ⭐📤📍👺
+Emoji list: 
+=================================
+  🔴  Needs solution, Have somme issues & errors
+  🟡  Warning & Waiting for solution,  Pending &Not completed
+  🟢  Solved, Completed
+  🔎  Search & Find & Understand
+  ❓  Question / Quiz
+  ❗❗❗ Priority 1 important
+  ❗❗  Priority 2 important
+  ❗   Priority 3 important
+  👀  Examine when you have time
+  🌏  Link
+  🤖 Github Link
+  🧶  Actual, Present
+  🧩  Install package
+  ⏱  Time
+  📆  Date
+  🚩  Extra caution 
+  🥎  Beginning of the steps
+  ⛔  Errors & issues
+  🚀  Solutions
+  💿  Backup
+  🧬  Code lines
+  📤  Output after any code 
+  🔋   Start, run or activate an app
+ ⭐ For likes or attentions
+  📍  Beginning of the heads and subheads
+  👺Par, password etc.
+
+  =   Header section
+  --  Sub header section
+  ..  Division
+
+  Folder & File Structure:
+  (=>): Folder 
+  (==>): Subfolder 
+  (===>): Folder in Subfolder
+  (->) -> File
+  (=->) File in Folder
+  (==->) File in Subfolder
+  (===->) File in Folder in Subfolder
+================================>
+TUTORIAL INFO:
+=================================
+Likes(⭐)=========: ⭐⭐
+ShortComments====: It's just ok. A little bit east & west.. 
+Not finished. Stopped at hrs. 00:20:00 
+Name ===========:
+Tutor Name =====:
+Published ========: Aug 2, 2022
+Title ============:  
+Content =========:
+Link_Youtube 🌏==: https://www.youtube.com/watch?v=Ul3y1LXxzdU&t=1071s&ab_channel=WebDevSimplified
+Link_GitHub 🤖 ===:
+Link_Source======:
+Total hrs. : ======> 
+Subject =========: 
+Review(⭐ ======: 
+GithubUpload 🤖==: 
+Completed ======: 2022..
+
+Tdate==========: 2022
+Start===========: 00:00:00 
+Stop===========: 00:00:00 
+NextStartVideo===: 00:00:00
+================================<
+
+=================================
+---------------------------------
+🥎Step #:_
+---------------------------------
+.................................
+
+.................................
+================================<
+/////////////////////////////////
