@@ -38,6 +38,7 @@ Emoji list:
   (===>): Folder in Subfolder
   (->) -> File
   (=->) File in Folder
+  
   (==->) File in Subfolder
   (===->) File in Folder in Subfolder
 ================================>
